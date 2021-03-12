@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishitachauhan
+- 👋 Hi, I’m Ishita Chauhan 
 - 👀 I’m interested in NodeJs,AWS Lambda,Javascript,System design
 - 💞️ I’m looking to collaborate on NodeJs Projects
 - 💬 Ask me about NodeJs,Python,Sails,Javascript
