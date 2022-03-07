@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishita Chauhan 
-- 👀 I’m interested in NodeJs,Javascript,ReactJs and System design
+- 👀 I’m interested in NodeJs, Javascript, ReactJs and System design
 - 💞️ I’m looking to collaborate on NodeJs Projects
-- 💬 Ask me about NodeJs,Python,Sails,Javascript and ReactJs
+- 💬 Ask me about NodeJs, Python, Sails, Javascript and ReactJs
 - 🌱 I’m currently learning Mule 
 - 📫 How to reach me: ishitachauhan073@gmail.com
 
